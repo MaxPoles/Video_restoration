@@ -6,4 +6,4 @@
 *.txt 
 *.webm
 .ipynb_checkpoints
-**/Models
+Models/
