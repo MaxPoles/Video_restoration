@@ -7,3 +7,5 @@
 *.webm
 .ipynb_checkpoints
 Models/
+difruns
+runs
